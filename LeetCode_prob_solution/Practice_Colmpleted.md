@@ -10,3 +10,8 @@
 - 2339 All the Matches of the League
 - 1741 Find Total Time Spent by Each Employee
 - 1693 Daily Leads and Partners
+- 1853 Convert Date Format
+- 1795 Rearrange Products Table
+- 1683 Invalid Tweets
+- 2026 Low-Quality Problems
+- 1587 Bank Account Summary II
