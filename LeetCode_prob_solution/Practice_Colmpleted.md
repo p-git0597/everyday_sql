@@ -15,3 +15,9 @@
 - 1683 Invalid Tweets
 - 2026 Low-Quality Problems
 - 1587 Bank Account Summary II
+- 627 Swap Salary
+- 1050 Actors and Directors Who Cooperated At Least Three Times
+- 1068 Product Sales Analysis I
+- 1069 Product Sales Analysis II
+- 1075 Project Employees I
+- 1076 Project Employees II
