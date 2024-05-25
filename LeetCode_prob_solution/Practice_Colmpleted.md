@@ -21,3 +21,9 @@
 - 1069 Product Sales Analysis II
 - 1075 Project Employees I
 - 1076 Project Employees II
+- 175 Combine Two Tables
+- 197 Rising Temperature
+
+### SQL INTERVIEW QUESTIONS: -
+
+1. How to find nth highest salary in sql
